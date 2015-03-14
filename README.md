@@ -39,4 +39,4 @@ If you want to get more hands on, please submit pull requests to the development
 ##Contact
 
 - [Personal Website](http://morganchen12.github.io/)
-- [LinkedIn](www.linkedin.com/pub/morgan-chen/8b/553/ab8/en)
+- [LinkedIn](http://www.linkedin.com/pub/morgan-chen/8b/553/ab8/en)
