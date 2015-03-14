@@ -22,8 +22,13 @@ of your tracked repos
 
 ##Screenshots
 
-[[ https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png | height = 100px ]]
-<a href="url"><img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png" align="left" height="100"></a>
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png" align="left" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_002.png" align="right" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_003.png" align="left" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_004.png" align="right" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_005.png" align="left" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_006.png" align="right" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_007.png" align="left" height="400">
 
 ![](https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png)
 ![](https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_002.png)
