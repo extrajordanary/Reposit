@@ -22,7 +22,7 @@ of your tracked repos
 
 ##Screenshots
 
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png" height="600">
+<img src="/Screenshots/reposit_screenshot_001.png" height="600">
  <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_002.png" height="600">
  <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_003.png" height="600">
  <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_004.png" height="600">
@@ -38,5 +38,5 @@ If you want to get more hands on, please submit pull requests to the development
 
 ##Contact
 
-![Personal Website](http://morganchen12.github.io/)
-![LinkedIn](www.linkedin.com/pub/morgan-chen/8b/553/ab8/en)
+[Personal Website](http://morganchen12.github.io/)
+[LinkedIn](www.linkedin.com/pub/morgan-chen/8b/553/ab8/en)
