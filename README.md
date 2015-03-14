@@ -22,13 +22,13 @@ of your tracked repos
 
 ##Screenshots
 
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png" align="left" height="400">
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_002.png" align="center" height="400">
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_003.png" align="right" height="400">
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_004.png" align="left" height="400">
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_005.png" align="center" height="400">
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_006.png" align="right" height="400">
-<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_007.png" align="left" height="400">
+<img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png" height="400">
+ <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_002.png" height="400">
+ <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_003.png" height="400">
+ <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_004.png" align="left" height="400">
+ <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_005.png" align="center" height="400">
+ <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_006.png" align="right" height="400">
+ <img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_007.png" align="left" height="400">
 
 ##Contribute
 
