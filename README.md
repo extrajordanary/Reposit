@@ -23,6 +23,7 @@ of your tracked repos
 ##Screenshots
 
 [[ https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png | height = 100px ]]
+<a href="url"><img src="https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png" align="left" height="100"></a>
 
 ![](https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_001.png)
 ![](https://github.com/extrajordanary/Reposit/blob/screenshots/Screenshots/reposit_screenshot_002.png)
