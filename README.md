@@ -36,6 +36,9 @@ Have a bug report or feature suggestion? File an issue [here](https://github.com
 
 If you want to get more hands on, please submit pull requests to the development branch.
 
+####Previous Contributors
+[extrajordanary](https://github.com/extrajordanary)
+
 ##Contact
 
 - [Personal Website](http://morganchen12.github.io/)
